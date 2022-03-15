@@ -1,0 +1,16 @@
+
+.idea/libraries/mysql_connector_java_8_0_28.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+Driver/mysql-connector-java-8.0.28.jar
+out/production/TO-DO-Liste_JDBC/DBConnectionManager.class
+out/production/TO-DO-Liste_JDBC/Main.class
+out/production/TO-DO-Liste_JDBC/Task.class
+out/production/TO-DO-Liste_JDBC/ToDo.class
+out/production/TO-DO-Liste_JDBC/TodoList_Manager.class
+out/production/TO-DO-Liste_JDBC/TodoListManagerDAO.class
+out/production/TO-DO-Liste_JDBC/User.class
+out/test/TO-DO-Liste_JDBC/TodoList_ManagerTest.class
+Test/TodoList_ManagerTest.java
